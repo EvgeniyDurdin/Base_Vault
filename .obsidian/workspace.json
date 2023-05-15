@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "61ffc93202192535",
+        "id": "5cb271e1f35af2a2",
         "type": "tabs",
         "children": [
           {
-            "id": "5ad8f8c5b9a2beed",
+            "id": "f834550f02937eda",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Stepic/Интерактивный тренажер/Глава 3/3.1 База данных Тестирование, запросы на выборку.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Oracle/Joins.md",
+                "file": "SQL/Stepic/Интерактивный тренажер/Глава 3/3.1 База данных Тестирование, запросы на выборку.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Oracle/Joins.md",
+                "file": "SQL/Stepic/Интерактивный тренажер/Глава 3/3.1 База данных Тестирование, запросы на выборку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Oracle/Joins.md"
+                "file": "SQL/Stepic/Интерактивный тренажер/Глава 3/3.1 База данных Тестирование, запросы на выборку.md"
               }
             }
           }
@@ -150,15 +154,23 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f9d1d0ce86de3574",
+  "active": "f834550f02937eda",
   "lastOpenFiles": [
+    "SQL/Stepic/Интерактивный тренажер/Глава 1/1.2 Выборка данных.md",
+    "SQL/Stepic/Интерактивный тренажер/Глава 3/3.1 База данных Тестирование, запросы на выборку.md",
+    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.1.1.jpg",
+    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.1.2.jpg",
+    "SQL/Stepic/Интерактивный тренажер/Глава 3/content",
+    "SQL/Stepic/Интерактивный тренажер/Глава 3",
+    "SQL/Stepic/Интерактивный тренажер/Глава 2/Untitled.md",
+    "SQL/Stepic/Интерактивный тренажер/Глава 2/2.5 База Интернет-магазин книг, запросы корректировки.md",
+    "SQL/Oracle/Joins.md",
+    "SQL/Oracle/content/Oracle_9.2.5.png",
     "SQL/Oracle/content/Oracle_9.2.4.png",
     "SQL/Oracle/content/Oracle_9.2.3.png",
     "SQL/Oracle/content/Oracle_9.2.2.png",
     "SQL/Oracle/content/Oracle_9.2.1.png",
     "SQL/Oracle/content",
-    "SQL/Stepic/Интерактивный тренажер/Глава 2/2.5 База Интернет-магазин книг, запросы корректировки.md",
-    "SQL/Oracle/Joins.md",
     "SQL/Oracle",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/content/Stepic_IntTr_2.1.1.jpg",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.7 Таблица Нарушения ПДД, запросы коррекции.md",
@@ -169,15 +181,10 @@
     "SQL/Stepic/Интерактивный тренажер/Глава 1/content",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.4 База данных Интернет-магазин книг, запросы на выборку.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.3 Запросы. Групповые операции.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 1/1.2 Выборка данных.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.1 Основы реляционной модели и SQL.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.1 Связи между таблицами.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.4 Вложенные запросы.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/content/Stepic_IntTr_2.4.13.jpg",
-    "SQL/Stepic/Интерактивный тренажер/Глава 2/content/Stepic_IntTr_2.4.6.jpg",
-    "SQL/Stepic/Интерактивный тренажер/Глава 2/content/Stepic_IntTr_2.4.7.jpg",
-    "SQL/Stepic/Интерактивный тренажер/Глава 2/content/Stepic_IntTr_2.4.2.jpg",
-    "SQL/Stepic/Интерактивный тренажер/Глава 2/content/Stepic_IntTr_2.4.12.jpg",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.3 Запросы корректировки, соединение таблиц.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.2 Запросы на выборку, соединение таблиц.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2",
@@ -189,7 +196,6 @@
     "SQL/Stepic/Интерактивный тренажер/Глава 1",
     "SQL/Stepic/Интерактивный тренажер",
     "SQL/Stepic",
-    "SQL",
     "JQuery.md"
   ]
 }
