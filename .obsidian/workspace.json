@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Stepic/Интерактивный тренажер/Глава 3/3.5 База данных Учебная аналитика по курсу.md",
+                "file": "SQL/Без структуры/Оконные функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Stepic/Интерактивный тренажер/Глава 3/3.5 База данных Учебная аналитика по курсу.md",
+                "file": "SQL/Без структуры/Оконные функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Stepic/Интерактивный тренажер/Глава 3/3.5 База данных Учебная аналитика по курсу.md",
+                "file": "SQL/Без структуры/Оконные функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Stepic/Интерактивный тренажер/Глава 3/3.5 База данных Учебная аналитика по курсу.md"
+                "file": "SQL/Без структуры/Оконные функции.md"
               }
             }
           }
@@ -156,27 +156,30 @@
   },
   "active": "3b4c6f3accad19dc",
   "lastOpenFiles": [
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.5.3.png",
-    "5_2.png",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.5.4.png",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.5.5.png",
+    "SQL/Без структуры/content/WindowFn_1.2.png",
+    "SQL/Без структуры/Оконные функции.md",
+    "SQL/Без структуры/content/WindowFn_3.4.png",
+    "SQL/Без структуры/content/WindowFn_3.3.png",
+    "SQL/Без структуры/content/WindowFn_3.2.png",
+    "SQL/Без структуры/content/WindowFn_3.1.png",
+    "SQL/Без структуры/content/WindowFn_2.2.png",
+    "SQL/Без структуры/content/WindowFn_2.1.png",
+    "SQL/Без структуры/content/WindowFn_1.3.png",
+    "SQL/Без структуры/content/WindowFn_1.1.png",
+    "SQL/Без структуры/content",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.5 База данных Учебная аналитика по курсу.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.5.1.png",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.5.2.png",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.4.1.png",
+    "SQL/Без структуры",
+    "SQL/Stepic/Интерактивный тренажер/Глава 3/3.3 База данных Абитуриент, запросы на выборку.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.4 База данных Абитуриент, запросы корректировки.md",
+    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.5.3.png",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.1 Основы реляционной модели и SQL.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.3 Запросы корректировки, соединение таблиц.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.1 База данных Тестирование, запросы на выборку.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.5 База Интернет-магазин книг, запросы корректировки.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.4 База данных Интернет-магазин книг, запросы на выборку.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.3.2.jpg",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.3.1.jpg",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/3.3 База данных Абитуриент, запросы на выборку.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.2 Запросы на выборку, соединение таблиц.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.3 Запросы. Групповые операции.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.2 Выборка данных.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.1.1.jpg",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/content",
     "SQL/Stepic/Интерактивный тренажер/Глава 3",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/Untitled.md",
@@ -197,8 +200,6 @@
     "SQL/Stepic/Интерактивный тренажер/Пояснения.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/Stepic_IntTr_1.3.1.canvas",
     "SQL/Stepic/Интерактивный тренажер/Глава 1",
-    "SQL/Stepic/Интерактивный тренажер",
-    "SQL/Stepic",
     "JQuery.md"
   ]
 }
