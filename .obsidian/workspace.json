@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Без структуры/Оконные функции.md",
+                "file": "DeepLeaning/Грокаем глубокое обучение/2. Основные понятия. Как учатся машины.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Без структуры/Оконные функции.md",
+                "file": "DeepLeaning/Грокаем глубокое обучение/2. Основные понятия. Как учатся машины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Без структуры/Оконные функции.md",
+                "file": "DeepLeaning/Грокаем глубокое обучение/2. Основные понятия. Как учатся машины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Без структуры/Оконные функции.md"
+                "file": "DeepLeaning/Грокаем глубокое обучение/2. Основные понятия. Как учатся машины.md"
               }
             }
           }
@@ -156,22 +156,30 @@
   },
   "active": "3b4c6f3accad19dc",
   "lastOpenFiles": [
-    "SQL/Без структуры/content/WindowFn_1.2.png",
+    "www.codecademy.com/learn/python.md",
+    "DeepLeaning/Грокаем глубокое обучение/2. Основные понятия. Как учатся машины.md",
+    "DeepLeaning/Грокаем глубокое обучение/content/img_2_3.png",
+    "DeepLeaning/Грокаем глубокое обучение/content/img_2_2.png",
+    "DeepLeaning/Грокаем глубокое обучение/content/img_2_1.png",
+    "DeepLeaning/Грокаем глубокое обучение/content",
+    "DeepLeaning/Грокаем глубокое обучение/1 Введение в глубокое обучение. Зачем его изучать.md",
+    "www.codecademy.com/learn",
+    "www.codecademy.com",
     "SQL/Без структуры/Оконные функции.md",
+    "DeepLeaning/Грокаем глубокое обучение",
+    "DeepLeaning",
+    "SQL/Без структуры/content/WindowFn_1.2.png",
     "SQL/Без структуры/content/WindowFn_3.4.png",
     "SQL/Без структуры/content/WindowFn_3.3.png",
     "SQL/Без структуры/content/WindowFn_3.2.png",
     "SQL/Без структуры/content/WindowFn_3.1.png",
     "SQL/Без структуры/content/WindowFn_2.2.png",
     "SQL/Без структуры/content/WindowFn_2.1.png",
-    "SQL/Без структуры/content/WindowFn_1.3.png",
-    "SQL/Без структуры/content/WindowFn_1.1.png",
     "SQL/Без структуры/content",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.5 База данных Учебная аналитика по курсу.md",
     "SQL/Без структуры",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.3 База данных Абитуриент, запросы на выборку.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.4 База данных Абитуриент, запросы корректировки.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/content/Stepic_IntTr_3.5.3.png",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.1 Основы реляционной модели и SQL.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.3 Запросы корректировки, соединение таблиц.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.1 База данных Тестирование, запросы на выборку.md",
@@ -185,21 +193,15 @@
     "SQL/Stepic/Интерактивный тренажер/Глава 2/Untitled.md",
     "SQL/Oracle/Joins.md",
     "SQL/Oracle/content",
-    "SQL/Oracle",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.7 Таблица Нарушения ПДД, запросы коррекции.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 2/content",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.6 Таблица Командировки, запросы на выборку.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.5 Запросы корректировки данных.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 1/content",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.1 Связи между таблицами.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.4 Вложенные запросы.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 2",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/Глоссарий.md",
     "Untitled.canvas",
     "if.md",
     "SQL/Stepic/Интерактивный тренажер/Пояснения.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 1/Stepic_IntTr_1.3.1.canvas",
-    "SQL/Stepic/Интерактивный тренажер/Глава 1",
-    "JQuery.md"
+    "SQL/Stepic/Интерактивный тренажер/Глава 1/Stepic_IntTr_1.3.1.canvas"
   ]
 }
