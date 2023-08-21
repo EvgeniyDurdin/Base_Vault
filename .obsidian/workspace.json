@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Stepic/Оконные функции/1. Введение/1.1 О курсе.md",
+                "file": "SQL/Stepic/Оконные функции/3. Фреймы/3.2 Range.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Stepic/Оконные функции/1. Введение/1.1 О курсе.md",
+                "file": "SQL/Stepic/Оконные функции/3. Фреймы/3.2 Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Stepic/Оконные функции/1. Введение/1.1 О курсе.md",
+                "file": "SQL/Stepic/Оконные функции/3. Фреймы/3.2 Range.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Stepic/Оконные функции/1. Введение/1.1 О курсе.md"
+                "file": "SQL/Stepic/Оконные функции/3. Фреймы/3.2 Range.md"
               }
             }
           }
@@ -156,23 +156,30 @@
   },
   "active": "3b4c6f3accad19dc",
   "lastOpenFiles": [
-    "SQL/Stepic/Оконные функции/1. Введение/1.2 Зачем нужны оконные функции.md",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/2.5 Статистика.md",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.4.6.png",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.5.1.png",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/2.4 Скользящие агрегаты.md",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.4.5.png",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.5.2.png",
-    "SQL/Stepic/Интерактивный тренажер/Глава 3/3.1 База данных Тестирование, запросы на выборку.md",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.4.2.png",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.4.3.png",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.4.4.png",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.4.1.png",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/2.3 Агрегация.md",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.3.1.png",
+    "SQL/Stepic/Оконные функции/3. Фреймы/3.3 Exclude.md",
+    "SQL/Stepic/Оконные функции/3. Фреймы/3.4 Filter.md",
     "SQL/Stepic/Оконные функции/2. Окна и функции/2.2 Смещение.md",
     "SQL/Stepic/Оконные функции/2. Окна и функции/2.1 Ранжирование.md",
-    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.2.6.png",
+    "SQL/Stepic/Оконные функции/3. Фреймы/Content/Stepic_Wnd_3.3.1.png",
+    "SQL/Stepic/Оконные функции/3. Фреймы/3.2 Range.md",
+    "SQL/Stepic/Оконные функции/3. Фреймы/3.1 Rows and Groups.md",
+    "SQL/Stepic/Оконные функции/3. Фреймы/Content/Stepic_Wnd_3.3.2.png",
+    "SQL/Stepic/Оконные функции/3. Фреймы/Content/Stepic_Wnd_3.2.4.png",
+    "SQL/Stepic/Оконные функции/3. Фреймы/Content/Stepic_Wnd_3.2.1.png",
+    "SQL/Stepic/Оконные функции/3. Фреймы/Content/Stepic_Wnd_3.2.2.png",
+    "SQL/Stepic/Оконные функции/3. Фреймы/Content/Stepic_Wnd_3.2.3.png",
+    "SQL/Stepic/Оконные функции/3. Фреймы/Content/Stepic_Wnd_3.1.2.png",
+    "SQL/Stepic/Оконные функции/2. Окна и функции/2.3 Агрегация.md",
+    "SQL/Stepic/Оконные функции/2. Окна и функции/2.4 Скользящие агрегаты.md",
+    "SQL/Stepic/Оконные функции/2. Окна и функции/2.5 Статистика.md",
+    "SQL/Stepic/Оконные функции/3. Фреймы/Content/Stepic_Wnd_3.1.1.png",
+    "SQL/Stepic/Оконные функции/3. Фреймы/Content",
+    "SQL/Stepic/Оконные функции/3. Фреймы",
+    "SQL/Stepic/Оконные функции/1. Введение/1.1 О курсе.md",
+    "SQL/Stepic/Оконные функции/1. Введение/1.2 Зачем нужны оконные функции.md",
+    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.4.6.png",
+    "SQL/Stepic/Оконные функции/2. Окна и функции/Content/Stepic_Wnd_2.5.1.png",
+    "SQL/Stepic/Интерактивный тренажер/Глава 3/3.1 База данных Тестирование, запросы на выборку.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.5 База данных Учебная аналитика по курсу.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.4 База данных Абитуриент, запросы корректировки.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 3/3.3 База данных Абитуриент, запросы на выборку.md",
@@ -181,7 +188,6 @@
     "SQL/Stepic/Оконные функции/2. Окна и функции/Content",
     "SQL/Stepic/Оконные функции/2. Окна и функции",
     "SQL/Stepic/Оконные функции/1. Введение/Untitled",
-    "SQL/Stepic/Оконные функции/1. Введение/1.1 О курсе.md",
     "SQL/Stepic/Оконные функции/1. Введение",
     "SQL/Stepic/Оконные функции",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.2 Запросы на выборку, соединение таблиц.md",
@@ -193,15 +199,9 @@
     "DeepLeaning/Грокаем глубокое обучение/1 Введение в глубокое обучение. Зачем его изучать.md",
     "www.codecademy.com/learn",
     "www.codecademy.com",
-    "DeepLeaning/Грокаем глубокое обучение",
-    "DeepLeaning",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/1.1 Основы реляционной модели и SQL.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.3 Запросы корректировки, соединение таблиц.md",
     "SQL/Stepic/Интерактивный тренажер/Глава 2/2.5 База Интернет-магазин книг, запросы корректировки.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 2/2.4 База данных Интернет-магазин книг, запросы на выборку.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 1/1.2 Выборка данных.md",
-    "SQL/Stepic/Интерактивный тренажер/Глава 2/Untitled.md",
-    "SQL/Oracle/Joins.md",
     "Untitled.canvas",
     "SQL/Stepic/Интерактивный тренажер/Глава 1/Stepic_IntTr_1.3.1.canvas"
   ]
